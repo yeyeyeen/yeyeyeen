@@ -2,9 +2,8 @@
 
 📚 Studying Computer Science at University of British Columbia<br/>
 💻 Software Developer @ UBC Biomedical Engineering Student Team<br/>
-🌱 Currently learning more about frontend design systems and how to stay warm in a freezing classroom<br/>
-🍵 Always down to make things a little prettier, a little faster, and drink too much matcha<br/>
-
+⚡️ Currently diving into React.js and tackling projects<br/>
+🍵 Enjoy creating efficient, polished solutions — preferably with a cup of matcha in hand<br/>
 
 ## tech stack 💻
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
